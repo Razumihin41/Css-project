@@ -3,4 +3,4 @@
 
 ---
 
-![Proje Görseli](image/gorsel.jpg)
+![Proje Görseli](/Old%20Google%20clone/image/gorsel.jpg)

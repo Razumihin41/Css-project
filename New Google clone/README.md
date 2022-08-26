@@ -3,7 +3,7 @@
 
 ---
 
-![Proje Görseli](/img/proje.jpg)
+![Proje Görseli](/New%20Google%20clone/img/proje.jpg)
 
 
 
