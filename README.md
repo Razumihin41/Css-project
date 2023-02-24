@@ -1,7 +1,3 @@
-[PATIKA DEV PROFIL LINK](https://app.patika.dev/razumihin)
-
----
-
 # My Web Site
 
 ![Proje Görseli](/My%20web%20Site/image/tanitim.jpg)
